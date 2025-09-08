@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "langchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "wangzhen <wangzhen2@tinman.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/core": "^0.3.73",
+    "@langchain/langgraph": "^0.4.9",
+    "@langchain/ollama": "^0.2.4",
+    "@langchain/openai": "^0.6.11",
+    "langchain": "^0.3.32",
+    "uuid": "^11.1.0"
+  }
+}
